@@ -1,4 +1,5 @@
 .project
 .classpath
 .settings
+.directory
 target/

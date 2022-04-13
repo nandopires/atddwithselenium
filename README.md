@@ -24,4 +24,5 @@ A classe Bot test valida o resultado de uma pesquisa do medicamento amoxicilina 
 A classe DrogariaPachecoPageObject representa a página de pesquisa da drogaria e segue o pattern PageObject recomendado pela documentação do Selenium.
 
 ## 6 - ATDD
-Testes de aceitação escritos em markdown que instrumentam a API Concordion e fazem as validações definidas nos testes de aceitação, gerando como resultado arquivos HTML com o resultado dos testes.
+Testes de aceitação escritos em markdown que instrumentam a API Concordion e fazem as validações definidas nos testes de aceitação, gerando como resultado  
+arquivos HTML com o resultado dos testes.
